@@ -15,7 +15,3 @@ local feat = require("feat.feat")
 You'll then want to add feat functions for init / update / final. See example for usage.
 
 Feat was made to simplify the process of adding stats and achievements to your game with the ability to auto-unlock based on stat progression and auto-unlock and sync on Steam.
-
-You will need to follow DefSteam instructions to properly include Steamworks libs in your project. This uses the testing Spacewar game for the example testing. Use Steam Achievement Manager to reset your Spacewar stats if necessary.
-
-TODO: Add support for iOS/Android native achievements/stats.
